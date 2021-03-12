@@ -14,7 +14,7 @@ Si  un  visiteur  est déjà  identifié, il peut changer son sport ou ses infor
 
  
 
-# Le site comprend quatre pages indiqués comme suit :
+# Le site comprend quatre pages indiquées comme suit :
 
 ## Page d’accueil
 Contient la liste des sports extrait de la base de données. Un lien permet d’accéder à la page d’inscription
