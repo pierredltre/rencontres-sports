@@ -21,7 +21,7 @@ Contient la liste des sports extrait de la base de données. Un lien permet d’
 Un visiteur peut s’identifier depuis cette page en entrant son e-mail et un mot de passe. Une fois identifié, l’en-tête de la page se met à jour pour afficher deux nouveaux liens.
 Un des liens permet d’accéder à la page de recherche et l’autre pour se déconnecter
 
- 
+![Index](./img/index.png)
 
 ## Page d’inscription 
 Contient un formulaire. Le visiteur s’inscrit entrant ses informations personnelles, choisit un sport proposés en base de données et de son niveau (débutant, confirmé, pro).
@@ -29,16 +29,20 @@ Si son sport n’existe pas dans la base de données, il a la possibilité de l�
 
 Après son inscription, le visiteur est amené à se connecter depuis la page d’accueil.
  
+![Inscription](./img/inscription.png)
 
 ## Page de recherche 
 Affiche les utilisateurs inscrit en base de données ainsi que les informations pour les contacter. Il est possible de trier les utilisateurs à partir de deux critères : le sport et le niveau de l’utilisateur.
  
+![Recherche](./img/recherche.png)
 
 ## Page de profil
 Permet à l’utilisateur identifié de modifier ses informations et aussi de changer / ajouter le sport et son niveau.
+
+![Profil](./img/profil.png)
 
 # Axes d'amélioration
 - Listes des sports sur la page d'accueil
 - Récupération des informations utilisateurs sur la page de profil afin d'éviter de tout réécrire
 - Un filtre manquant dans la recherche
-
+- MVC
